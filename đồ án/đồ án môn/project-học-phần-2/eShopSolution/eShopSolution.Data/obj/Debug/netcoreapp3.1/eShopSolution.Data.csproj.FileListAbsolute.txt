@@ -1,0 +1,26 @@
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.AssemblyReference.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+E:\projects\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
+E:\projects\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+E:\projects\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+E:\projects\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+E:\projects\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.AssemblyReference.cache
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+E:\projects\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache

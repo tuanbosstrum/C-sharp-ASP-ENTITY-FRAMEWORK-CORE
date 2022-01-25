@@ -1,0 +1,850 @@
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.exe
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.deps.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.runtimeconfig.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.runtimeconfig.dev.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.AssemblyReference.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.AssemblyInfoInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.AssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorAssemblyInfo.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorAssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.AdminApp.StaticWebAssets.Manifest.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.AdminApp.StaticWebAssets.xml
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\eShopSolution.AdminApp.styles.css
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.TagHelpers.input.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.TagHelpers.output.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorCoreGenerate.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\RoleAssign.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.CopyComplete
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.genruntimeconfig.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.exe
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.deps.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.runtimeconfig.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.runtimeconfig.dev.json
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.AssemblyReference.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.AssemblyInfoInputs.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.AssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.CoreCompileInputs.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorAssemblyInfo.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorAssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.AdminApp.StaticWebAssets.Manifest.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.AdminApp.StaticWebAssets.xml
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\eShopSolution.AdminApp.styles.css
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.TagHelpers.input.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.TagHelpers.output.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorCoreGenerate.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\RoleAssign.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorTargetAssemblyInfo.cache
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.RazorTargetAssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.Views.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.csproj.CopyComplete
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.dll
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.pdb
+E:\projects\eShopSolution\eShopSolution.AdminApp\obj\Debug\netcoreapp3.1\eShopSolution.AdminApp.genruntimeconfig.cache

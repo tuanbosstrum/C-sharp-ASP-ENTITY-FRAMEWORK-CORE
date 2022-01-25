@@ -1,0 +1,39 @@
+﻿@model doan_asp.net.Models.User
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Animated Login Form | CodingNepal</title>
+    <link rel="stylesheet" href="~/css/login.css">
+</head>
+<body>
+    <div class="center">
+        <h1>Login</h1>
+        <form asp-action="Login" enctype="multipart/form-data">
+            <div class="txt_field">
+                <input asp-for="username" name="username" type="text" class="input">
+                <span></span>
+                <label>Username</label>
+            </div>
+            <div class="txt_field">
+                <input asp-for="password" name="password" type="password" class="input">
+                <span></span>
+                <label>Password</label>
+            </div>
+            <div class="pass">Forgot Password?</div>
+            <input type="submit" class="btn" value="Đăng nhập">
+            <div class="signup_link">
+                Not a member? <a href="#">Signup</a>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

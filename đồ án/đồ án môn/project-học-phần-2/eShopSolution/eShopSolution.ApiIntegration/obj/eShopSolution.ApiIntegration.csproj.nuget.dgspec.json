@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\projects\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj": {}
+  },
+  "projects": {
+    "E:\\projects\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj",
+        "projectName": "eShopSolution.ApiIntegration",
+        "projectPath": "E:\\projects\\eShopSolution\\eShopSolution.ApiIntegration\\eShopSolution.ApiIntegration.csproj",
+        "packagesPath": "C:\\Users\\HUY TUAN\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\eShopSolution\\eShopSolution.ApiIntegration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HUY TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+                "projectPath": "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
+              },
+              "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+                "projectPath": "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
+        "projectName": "eShopSolution.Utilities",
+        "projectPath": "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
+        "packagesPath": "C:\\Users\\HUY TUAN\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\eShopSolution\\eShopSolution.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HUY TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "projectName": "eShopSolution.ViewModels",
+        "projectPath": "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\HUY TUAN\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\eShopSolution\\eShopSolution.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HUY TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CopyComplete
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+C:\Users\HUY TUAN\OneDrive - phuxuan.edu.vn\Máy tính\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CopyComplete
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+E:\projects\eShopSolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
